@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to PhpBlocks DevBox
 
-You can use the [editor on GitHub](https://github.com/enzzio/phpblocksbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a place where you can get a fully functional development enviroment for php-blocks with a few commands and without the complexity of setting up this enviroment on your own machine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We assume you know the basic for setting up [php-blocks](https://phpblocks.tech/).
 
 ### Markdown
 
